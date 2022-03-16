@@ -8,7 +8,11 @@ body {
     font-family: "monospace",sans-serif;
 }
 
-
 span.front-primary {
     color: #00abae;
+}
+
+.title-icon{
+    font-size: 20px;
+    font-weight: bold
 }
