@@ -2,6 +2,9 @@
 
 Learn about HTML / CSS / Bootstrap through creation. 
 
+Screenshot: <img width="1229" alt="Screenshot 2022-03-17 121725" src="https://user-images.githubusercontent.com/98126913/158845680-aa4bed95-75c6-4e2f-bb5f-2947381c81cd.png">
+
+
 ## Live-demo - https://shenita-portfolio.herokuapp.com/
 
 
