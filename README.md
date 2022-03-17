@@ -1,9 +1,9 @@
 # Portfolio
 
-Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own 
-portfolio.
+Learn about HTML / CSS / Bootstrap through creation. 
 
 ## Live-demo - https://shenita-portfolio.herokuapp.com/
+
 
 ## Tech used
 * HTML
