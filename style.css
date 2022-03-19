@@ -55,6 +55,7 @@ img.profile {
     border-radius: 50%;
     width: 130px;
     height: 150px;
+    margin-bottom: 15px;
 }
 
 #about .name {
