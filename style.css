@@ -57,6 +57,12 @@ img.profile {
     height: 150px;
     margin-bottom: 15px;
 }
+img.profile {
+    border-radius: 50%;
+    width: 130px;
+    height: 150px;
+    margin-bottom: 15px;
+}
 #about .profile{
     margin-bottom:15px;
 }
