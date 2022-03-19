@@ -57,6 +57,9 @@ img.profile {
     height: 150px;
     margin-bottom: 15px;
 }
+#about .profile{
+    margin-bottom:15px;
+}
 
 #about .name {
     font-weight: bold;
